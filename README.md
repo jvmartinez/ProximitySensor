@@ -1,4 +1,6 @@
 # Proximity Sensor
+  Ejemplo de sensor de proximidad hecho en Kotlin, En este ejemplo se puede observar los tipo de estado que puede tener el sensor atraves del evento de escucha.
+
 <table>
   <tr>
     <td>
